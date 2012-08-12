@@ -1,0 +1,16 @@
+====
+    Copyright (C) 2010-2012 Andrei Pozolotin <Andrei.Pozolotin@gmail.com>
+
+    All rights reserved. Licensed under the OSI BSD License.
+
+    http://www.opensource.org/licenses/bsd-license.php
+====
+
+
+http://forum.liquibase.org/#Forum/liquibase-users
+
+http://manpages.ubuntu.com/manpages/gutsy/man1/mysqld_multi.1.html
+
+https://wiki.xkyle.com/Enabling_Multiple_Mysql_Instances_on_the_Same_Server
+
+http://dev.mysql.com/doc/refman/5.5/en/option-files.html
